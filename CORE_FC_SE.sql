@@ -1,4 +1,4 @@
-/****** Object:  StoredProcedure [dbo].[SP_PLANSIS_FORECAST_NSE_MBA]    Script Date: 10-12-2018 14:51:47 ******/
+/****** Object:  StoredProcedure Seasonal week forecast    Script Date: 10-12-2018 14:51:47 ******/
 SET ANSI_NULLS r
 GO
 SET QUOTED_IDENTIFIER ON
